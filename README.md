@@ -53,5 +53,3 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 The notebook includes steps for training and evaluating the SVM model. The evaluation metrics include accuracy, precision, recall, and the confusion matrix. Here is a summary of the results:
 ##
 Accuracy: 0.89
-Precision: 0.85
-Recall: 0.86
